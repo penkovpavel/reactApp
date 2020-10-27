@@ -1,0 +1,17 @@
+ - PropTypes
+Компонент.propsTypes = {
+    переменная: PropsTypes.number.isRequired
+}
+Компонент.defaultProps = {
+    переменная: дефолтное значение
+}
+
++ еще есть другие проверки (гуглим)
+
+- Route
+<Link to='/lala'>
+
+-Router
+action, reducer - чистые функции
+
+
